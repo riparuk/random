@@ -1,3 +1,7 @@
+/*
+Contoh Program Simpel pesan menu
+*/
+
 #include <stdio.h>
 
 int main(){

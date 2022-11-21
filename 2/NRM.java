@@ -1,3 +1,4 @@
+//Newton Raphson Method
 class NRM {
      
     static double func(double x)
